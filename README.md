@@ -1,6 +1,6 @@
 # Skill Development Program Course Outline 2022
 ## Month1
-### Week 1
+### WEEK ONE
 Introduction to programming in general and in detail with web development and design. 
 
 - ##### Introduce files and folders hierarchy 
@@ -35,9 +35,9 @@ Introduction to programming in general and in detail with web development and de
     - Border different properties and styles
     - Border-width, border-color, border-style
     - Solid,dashed,dotted,inset,outset,ridge
-    - Use above all properties according to your home task
+- ##### Use above all properties according to your home task
     
-### Week Three
+### WEEK THREE
 #### Git
 - Basic usage of Git
 - nstallation
@@ -56,8 +56,9 @@ Introduction to programming in general and in detail with web development and de
 - Assign height and width with different units
 ##### Box Model
 - Box model (margin,padding and and shorthand value)
+- ##### Use above all properties according to your home task
  
-### WEEK TWO
+### WEEK FOUR
 - ##### Positions
    - static
    - relative
@@ -72,6 +73,105 @@ Introduction to programming in general and in detail with web development and de
         - float:left
         - float:right
         - float:none
+- ##### More tags in detail
+   - lists
+        - tags (ul,ol,dl,li) type attribute
+        - unorder list
+        - order list
+        - defination list
+   - form
+        - attributes (action,method,type,placeholder,label)
+        - differnt input types(text,number,password,email,date,radio,checkbox)
+   - table
+   - nav
+- ##### Use above all properties according to your home task
+ 
+### WEEK FIVE
+- ##### CSS3 Properties:
+    - transform
+        - scale
+        - skew
+        - rotate
+        - translate
+        - matrix
+    - Transition
+    - Flex
+        - flex-direction
+        - flex-wrap
+        - justify-content
+        - align-items
+        - align-content
+        - flex-basis
+        - flex-grow
+        - flex-shrink
+        - align-self
+        - ##### Home task using flexbox
+    - Grid
+        - grid-template-columns
+        - grid-template-rows
+        - grid-row-gap
+        - grid-column-gap
+        - grid-gap
+        - grid-area
+        - justify-items
+        - align-items
+        -  ##### Home task using Grid
+### WEEK SIX
+- ##### Cross Browser Compatibility:
+    - prefixes
+- ##### Responsive Web Design:
+    - media-queries
+    - different break points
+- ##### Tailwind Framework:
+    - Usage of frameworks
+    - Installation
+    - configration
+    - tailwind classes
+ - ##### Practice Tailwind  Project:
+### WEEK SEVEN
+- ##### JAVASCRIPT
+    - Introduction
+    - Data Types and variables
+    - Data Conversions and Type Casting
+    - Operators
+    - Conditional statements
+    - Iterative Statements
+### WEEK EIGHT
+- Functions
+    - Function declaration
+    - function expression
+- Data Structure 
+	- Arrays
+	- Array Manipulations
+- Objects
+	Object Declarations and manipulations
+### WEEK NINE
+- Build In Objects
+    - Number object
+    - String object
+    - Array object etc
+### WEEK TEN
+- DOM Manupulation
+    - getting an element
+    - setting an element
+    - update an element
+    - changing content
+    - dom traversing
+### WEEK ELEVEN
+- EVENTS
+    - mouse events
+    - keyboard events
+### WEEK ELEVEN
+- PROJECT
+- ES6 Topics
+
+
+
+
+
+   
+
+
 
 
 
